@@ -1,2 +1,2 @@
 # helloWorld
-demo
+Digging into git based development
